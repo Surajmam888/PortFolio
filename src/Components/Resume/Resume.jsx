@@ -15,7 +15,7 @@ const Resumer = () => {
       </span>
 
       <div className="boxContainer">
-      <div className="box">
+        <div className="box">
           <h2>2014-2017</h2>
           <h3>Computer Science Enginnering(Diploma)</h3>
           <p>Rajiv Gandhi Proudyogiki Vishwavidyalaya</p>
