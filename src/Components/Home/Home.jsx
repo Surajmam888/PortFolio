@@ -25,7 +25,9 @@ const Home = () => {
           </button>
         </Link>
       </div>
+      <div className="user_img">
       <img src={Person} alt="Profile_" className="bg" />
+      </div>
     </section>
   );
 };
