@@ -40,11 +40,11 @@ const Resumer = () => {
           </span>
         </div>
         <div className="box">
-          <h2>2023-2024[July-March]</h2>
+          <h2>2023-2024[July-July]</h2>
           <h3>React.js Developer</h3>
           <p>Mactosys Software Technology pvt. ltd Indore</p>
           <span>
-          From July 2023 to March 2024, Suraj Saket worked as a React.js Developer at Mactosys Software Technology Pvt. Ltd., Indore. During this time, he developed dynamic web applications, optimized user interfaces, and collaborated with cross-functional teams. This role honed his expertise in React.js, Material-UI, and API integration, enhancing his professional skills.
+          From July 2023 to July 2024, Suraj Saket worked as a React.js Developer at Mactosys Software Technology Pvt. Ltd., Indore. During this time, he developed dynamic web applications, optimized user interfaces, and collaborated with cross-functional teams. This role honed his expertise in React.js, Material-UI, and API integration, enhancing his professional skills.
           </span>
         </div>
       </div>

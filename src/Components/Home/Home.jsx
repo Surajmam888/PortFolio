@@ -3,10 +3,12 @@ import "./Home.css";
 import { Link } from "react-scroll";
 import Person from "../images/Person.png";
 import WorkIcon from "@mui/icons-material/Work";
+import Surya from "../images/Surya.jpeg";
+
 
 const Home = () => {
   return (
-    <section id="intro">
+    <section id="intro" className="intro">
       <div className="introContent">
         <span className="hello">Hello,</span>
         <span className="introText">
@@ -26,7 +28,7 @@ const Home = () => {
         </Link>
       </div>
       <div className="user_img">
-      <img src={Person} alt="Profile_" className="bg" />
+      <img src={Surya} alt="Profile_" className="bg" />
       </div>
     </section>
   );
