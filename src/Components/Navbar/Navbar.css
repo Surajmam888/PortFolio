@@ -3,9 +3,9 @@
 .navbar {
   height: 5rem;
   width: 100vw;
-  max-width: 75rem;
+  /* max-width: 75rem; */
   margin: 0 auto;
-  padding: 1rem 2rem;
+  padding: 0rem 2rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -15,9 +15,6 @@
   background-color:rgb(3,3,3);
 
 } 
-
-
-
 
 .logo {
   object-fit: cover;
